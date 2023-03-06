@@ -22397,7 +22397,7 @@ var Home = function Home() {
 	return _react2.default.createElement(
 		'div',
 		null,
-		'I\'m the another home component'
+		'I\'m very very the another home component'
 	);
 };
 
